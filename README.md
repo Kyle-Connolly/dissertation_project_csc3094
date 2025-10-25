@@ -3,6 +3,8 @@
 Kyle Connolly 200982173 Newcastle University
 CSC3094 Coursework
 
+Please find "CSC3094 Dissertation - Kyle Connolly 200982173.pdf" within this repository for more details on the design, development, and testing of this project.
+
 Instructions:
 -->[IMPORTANT]<--
 If encountering console errors:
